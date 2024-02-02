@@ -4,8 +4,6 @@ public abstract class Shape {
 
     Integer x;
     Integer y;
-    String color = "green";
-
-    String color = "blue";
+    String color = "green"; // conflict resolved
 
 }
