@@ -4,6 +4,6 @@ public abstract class Shape {
 
     Integer x;
     Integer y;
-    String color = "yellow";
+    String color = "green"; // Kept the main origin edit. 
 
 }
